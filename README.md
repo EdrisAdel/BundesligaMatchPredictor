@@ -11,3 +11,5 @@ Notes
 
 License
 - Use freely for experimentation. No warranty.
+
+simulated_season_table.csv is a pre simulated file based on the 3 seasons in the 'data' file for reference.
