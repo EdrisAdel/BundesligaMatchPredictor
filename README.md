@@ -5,6 +5,7 @@ A machine learning pipeline that predicts Bundesliga final standings using histo
 ## Demo
 
 [Watch the Dashboard Walkthrough](https://youtu.be/Dg-VmPYsaGY)
+[Demo](images/PowerBIPredictVsActual.png)
 
 ---
 
@@ -74,14 +75,13 @@ DataScraper/
 │   ├── Bundesliga2425.csv
 │   ├── actual_standings_all.csv
 │   ├── form_all.csv
+│   ├── home_away.csv
+│   └── predicted_vs_actual.csv
+├── scripts/
 │   ├── build_form_table.py
 │   ├── recalculate_form_points.py
 │   ├── build_home_away_table.py
 │   ├── compare_predicted_vs_actual.py
-│   ├── home_away.csv
-│   └── predicted_vs_actual.csv
-├── scripts/
-│   └── (reserved)
 ├── dashboard/
 │   └── bundesliga_dashboard.pbix
 ├── images/
