@@ -5,7 +5,7 @@ A machine learning pipeline that predicts Bundesliga final standings using histo
 ## Demo
 
 [Watch the Dashboard Walkthrough](https://youtu.be/Dg-VmPYsaGY)
-[Demo](images/PowerBIPredictVsActual.png)
+![Demo](images/PowerBIPredictVsActual.png)
 
 ---
 
