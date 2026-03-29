@@ -1,0 +1,109 @@
+Season,Team,Context,W,D,L,GF,GA,Pts
+2022/23,Ein Frankfurt,Home,9,5,3,35,18,32
+2022/23,Ein Frankfurt,Away,4,6,7,23,34,18
+2022/23,Bayern Munich,Home,11,5,1,53,17,38
+2022/23,Bayern Munich,Away,10,3,4,39,21,33
+2022/23,Augsburg,Home,6,4,7,16,24,22
+2022/23,Augsburg,Away,3,3,11,26,39,12
+2022/23,Freiburg,Home,10,4,3,28,13,34
+2022/23,Freiburg,Away,7,4,6,23,31,25
+2022/23,Bochum,Home,8,2,7,28,32,26
+2022/23,Bochum,Away,2,3,12,12,40,9
+2022/23,Mainz,Home,6,6,5,31,25,24
+2022/23,Mainz,Away,6,4,7,23,30,22
+2022/23,M'gladbach,Home,10,3,4,33,18,33
+2022/23,M'gladbach,Away,1,7,9,19,37,10
+2022/23,Hoffenheim,Home,7,2,8,28,29,23
+2022/23,Hoffenheim,Away,3,4,10,20,28,13
+2022/23,Union Berlin,Home,11,6,0,30,11,39
+2022/23,Union Berlin,Away,7,2,8,21,27,23
+2022/23,Hertha,Home,5,6,6,24,27,21
+2022/23,Hertha,Away,2,2,13,18,42,8
+2022/23,Wolfsburg,Home,6,7,4,34,25,25
+2022/23,Wolfsburg,Away,7,3,7,23,23,24
+2022/23,Werder Bremen,Home,5,2,10,26,28,17
+2022/23,Werder Bremen,Away,5,4,8,25,36,19
+2022/23,Dortmund,Home,14,2,1,55,17,44
+2022/23,Dortmund,Away,8,3,6,28,27,27
+2022/23,Leverkusen,Home,8,3,6,35,23,27
+2022/23,Leverkusen,Away,6,5,6,22,26,23
+2022/23,Stuttgart,Home,5,6,6,23,22,21
+2022/23,Stuttgart,Away,2,6,9,22,35,12
+2022/23,RB Leipzig,Home,13,2,2,38,18,41
+2022/23,RB Leipzig,Away,7,4,6,26,23,25
+2022/23,FC Koln,Home,6,5,6,28,20,23
+2022/23,FC Koln,Away,4,7,6,21,34,19
+2022/23,Schalke 04,Home,5,5,7,23,36,20
+2022/23,Schalke 04,Away,2,5,10,12,35,11
+2023/24,Werder Bremen,Home,7,4,6,29,26,25
+2023/24,Werder Bremen,Away,4,5,8,19,28,17
+2023/24,Bayern Munich,Home,14,1,2,53,12,43
+2023/24,Bayern Munich,Away,9,2,6,41,33,29
+2023/24,Augsburg,Home,6,6,5,26,26,24
+2023/24,Augsburg,Away,4,3,10,24,34,15
+2023/24,M'gladbach,Home,5,6,6,27,26,21
+2023/24,M'gladbach,Away,2,7,8,29,41,13
+2023/24,Hoffenheim,Home,6,5,6,31,31,23
+2023/24,Hoffenheim,Away,7,2,8,35,35,23
+2023/24,Freiburg,Home,5,7,5,28,30,22
+2023/24,Freiburg,Away,6,2,9,17,28,20
+2023/24,Leverkusen,Home,14,3,0,47,11,45
+2023/24,Leverkusen,Away,14,3,0,42,13,45
+2023/24,RB Leipzig,Home,11,4,2,40,12,37
+2023/24,RB Leipzig,Away,8,4,5,37,27,28
+2023/24,Stuttgart,Home,13,3,1,50,15,42
+2023/24,Stuttgart,Away,10,1,6,28,24,31
+2023/24,Bochum,Home,5,8,4,26,29,23
+2023/24,Bochum,Away,2,4,11,16,45,10
+2023/24,Wolfsburg,Home,6,4,7,25,25,22
+2023/24,Wolfsburg,Away,4,3,10,16,31,15
+2023/24,Heidenheim,Home,7,5,5,30,26,26
+2023/24,Heidenheim,Away,3,7,7,20,29,16
+2023/24,Dortmund,Home,10,3,4,37,22,33
+2023/24,Dortmund,Away,8,6,3,31,21,30
+2023/24,FC Koln,Home,4,4,9,15,28,16
+2023/24,FC Koln,Away,1,8,8,13,32,11
+2023/24,Union Berlin,Home,7,2,8,22,30,23
+2023/24,Union Berlin,Away,2,4,11,11,28,10
+2023/24,Mainz,Home,6,5,6,23,18,23
+2023/24,Mainz,Away,1,9,7,16,33,12
+2023/24,Ein Frankfurt,Home,7,8,2,29,21,29
+2023/24,Ein Frankfurt,Away,4,6,7,22,29,18
+2023/24,Darmstadt,Home,1,3,13,15,44,6
+2023/24,Darmstadt,Away,2,5,10,15,42,11
+2024/25,M'gladbach,Home,7,3,7,29,26,24
+2024/25,M'gladbach,Away,6,3,8,26,31,21
+2024/25,Leverkusen,Home,10,4,3,36,22,34
+2024/25,Leverkusen,Away,9,8,0,36,21,35
+2024/25,Augsburg,Home,6,5,6,18,20,23
+2024/25,Augsburg,Away,5,5,7,17,31,20
+2024/25,Werder Bremen,Home,5,6,6,21,26,21
+2024/25,Werder Bremen,Away,9,3,5,33,31,30
+2024/25,Freiburg,Home,9,3,5,32,26,30
+2024/25,Freiburg,Away,7,4,6,17,27,25
+2024/25,Stuttgart,Home,7,2,8,35,27,23
+2024/25,Stuttgart,Away,7,6,4,29,26,27
+2024/25,Hoffenheim,Home,4,5,8,25,36,17
+2024/25,Hoffenheim,Away,3,6,8,21,32,15
+2024/25,Holstein Kiel,Home,4,2,11,24,41,14
+2024/25,Holstein Kiel,Away,2,5,10,25,39,11
+2024/25,Mainz,Home,6,8,3,24,18,26
+2024/25,Mainz,Away,8,2,7,31,25,26
+2024/25,Union Berlin,Home,5,6,6,18,23,21
+2024/25,Union Berlin,Away,5,4,8,17,28,19
+2024/25,RB Leipzig,Home,8,6,3,33,23,30
+2024/25,RB Leipzig,Away,5,6,6,20,25,21
+2024/25,Bochum,Home,3,4,10,16,33,13
+2024/25,Bochum,Away,3,3,11,17,34,12
+2024/25,Dortmund,Home,11,3,3,44,19,36
+2024/25,Dortmund,Away,6,3,8,27,32,21
+2024/25,Ein Frankfurt,Home,10,4,3,41,22,34
+2024/25,Ein Frankfurt,Away,7,5,5,27,24,26
+2024/25,Wolfsburg,Home,3,7,7,27,30,16
+2024/25,Wolfsburg,Away,8,3,6,29,24,27
+2024/25,Bayern Munich,Home,14,2,1,53,16,44
+2024/25,Bayern Munich,Away,11,5,1,46,16,38
+2024/25,St Pauli,Home,3,5,9,10,19,14
+2024/25,St Pauli,Away,5,3,9,18,22,18
+2024/25,Heidenheim,Home,3,2,12,13,33,11
+2024/25,Heidenheim,Away,5,3,9,24,31,18

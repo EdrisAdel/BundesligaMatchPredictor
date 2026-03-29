@@ -15,17 +15,22 @@ import joblib
 import copy
 from typing import List, Tuple, Dict
 import glob
+from pathlib import Path
+
+
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / "data"
 
 # change these paths as needed
 CSV_PATHS = [
-    r"c:\Users\itzni\OneDrive\Documents\DataScraper\Bundesliga2223.csv",
-    r"c:\Users\itzni\OneDrive\Documents\DataScraper\Bundesliga2324.csv",
-    r"c:\Users\itzni\OneDrive\Documents\DataScraper\Bundesliga2425.csv"
+    str(DATA_DIR / "Bundesliga2223.csv"),
+    str(DATA_DIR / "Bundesliga2324.csv"),
+    str(DATA_DIR / "Bundesliga2425.csv"),
 ]
 
 # where to save/load trained model and scaler
-MODEL_PATH = r"c:\Users\itzni\OneDrive\Documents\DataScraper\rf_match_model.joblib"
-SCALER_PATH = r"c:\Users\itzni\OneDrive\Documents\DataScraper\scaler.joblib"
+MODEL_PATH = str(BASE_DIR / "rf_match_model.joblib")
+SCALER_PATH = str(BASE_DIR / "scaler.joblib")
 
 # columns to keep (pure football numbers) -- moved above loader so load_csv can reference it
 CORE_COLS = [
@@ -520,7 +525,7 @@ if __name__ == "__main__":
     fixtures = double_round_robin(teams)
     sim_table = simulate_season(fixtures, filtered_stats, clf, scaler, league_avg_goals=league_avg_goals, seed=42)
     # change as needed
-    out_path = r"c:\Users\itzni\OneDrive\Documents\DataScraper\simulated_season_table.csv"
+    out_path = str(BASE_DIR / "simulated_season_table.csv")
     sim_table.to_csv(out_path, index=False)
     print("Simulated season table saved to", out_path)
     print(sim_table.head(20))

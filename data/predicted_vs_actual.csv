@@ -1,0 +1,19 @@
+Season,Team,Pts_Predicted,Position_Predicted,Pts_Actual,Position_Actual,Position_Diff,Pts_Diff
+2024/25,Bayern Munich,72,1,82,1,0,10
+2024/25,Stuttgart,59,2,50,9,7,-9
+2024/25,Ein Frankfurt,53,3,60,3,0,7
+2024/25,Freiburg,53,4,55,5,1,2
+2024/25,Bochum,53,5,25,18,13,-28
+2024/25,Heidenheim,52,6,29,16,10,-23
+2024/25,M'gladbach,51,7,45,10,3,-6
+2024/25,Mainz,48,8,52,6,-2,4
+2024/25,Leverkusen,46,9,69,2,-7,23
+2024/25,RB Leipzig,45,10,51,8,-2,6
+2024/25,Holstein Kiel,44,11,25,17,6,-19
+2024/25,Wolfsburg,43,12,43,11,-1,0
+2024/25,Werder Bremen,43,13,51,7,-6,8
+2024/25,Dortmund,41,14,57,4,-10,16
+2024/25,Hoffenheim,40,15,32,14,-1,-8
+2024/25,Augsburg,39,16,43,12,-4,4
+2024/25,Union Berlin,37,17,40,13,-4,3
+2024/25,St Pauli,24,18,32,15,-3,8

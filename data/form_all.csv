@@ -1,0 +1,1837 @@
+Season,Team,Matchday,Points,CumulativePoints
+2022/23,Augsburg,1,0,0
+2022/23,Augsburg,2,3,3
+2022/23,Augsburg,3,0,3
+2022/23,Augsburg,4,0,3
+2022/23,Augsburg,5,0,3
+2022/23,Augsburg,6,3,6
+2022/23,Augsburg,7,3,9
+2022/23,Augsburg,8,3,12
+2022/23,Augsburg,9,1,13
+2022/23,Augsburg,10,0,13
+2022/23,Augsburg,11,1,14
+2022/23,Augsburg,12,0,14
+2022/23,Augsburg,13,0,14
+2022/23,Augsburg,14,1,15
+2022/23,Augsburg,15,0,15
+2022/23,Augsburg,16,0,15
+2022/23,Augsburg,17,3,18
+2022/23,Augsburg,18,0,18
+2022/23,Augsburg,19,3,21
+2022/23,Augsburg,20,0,21
+2022/23,Augsburg,21,3,24
+2022/23,Augsburg,22,0,24
+2022/23,Augsburg,23,3,27
+2022/23,Augsburg,24,0,27
+2022/23,Augsburg,25,1,28
+2022/23,Augsburg,26,1,29
+2022/23,Augsburg,27,0,29
+2022/23,Augsburg,28,0,29
+2022/23,Augsburg,29,1,30
+2022/23,Augsburg,30,1,31
+2022/23,Augsburg,31,3,34
+2022/23,Augsburg,32,0,34
+2022/23,Augsburg,33,0,34
+2022/23,Augsburg,34,0,34
+2022/23,Bayern Munich,1,3,3
+2022/23,Bayern Munich,2,3,6
+2022/23,Bayern Munich,3,3,9
+2022/23,Bayern Munich,4,1,10
+2022/23,Bayern Munich,5,1,11
+2022/23,Bayern Munich,6,1,12
+2022/23,Bayern Munich,7,0,12
+2022/23,Bayern Munich,8,3,15
+2022/23,Bayern Munich,9,1,16
+2022/23,Bayern Munich,10,3,19
+2022/23,Bayern Munich,11,3,22
+2022/23,Bayern Munich,12,3,25
+2022/23,Bayern Munich,13,3,28
+2022/23,Bayern Munich,14,3,31
+2022/23,Bayern Munich,15,3,34
+2022/23,Bayern Munich,16,1,35
+2022/23,Bayern Munich,17,1,36
+2022/23,Bayern Munich,18,1,37
+2022/23,Bayern Munich,19,3,40
+2022/23,Bayern Munich,20,3,43
+2022/23,Bayern Munich,21,0,43
+2022/23,Bayern Munich,22,3,46
+2022/23,Bayern Munich,23,3,49
+2022/23,Bayern Munich,24,3,52
+2022/23,Bayern Munich,25,0,52
+2022/23,Bayern Munich,26,3,55
+2022/23,Bayern Munich,27,3,58
+2022/23,Bayern Munich,28,1,59
+2022/23,Bayern Munich,29,0,59
+2022/23,Bayern Munich,30,3,62
+2022/23,Bayern Munich,31,3,65
+2022/23,Bayern Munich,32,3,68
+2022/23,Bayern Munich,33,0,68
+2022/23,Bayern Munich,34,3,71
+2022/23,Bochum,1,0,0
+2022/23,Bochum,2,0,0
+2022/23,Bochum,3,0,0
+2022/23,Bochum,4,0,0
+2022/23,Bochum,5,0,0
+2022/23,Bochum,6,0,0
+2022/23,Bochum,7,1,1
+2022/23,Bochum,8,0,1
+2022/23,Bochum,9,3,4
+2022/23,Bochum,10,0,4
+2022/23,Bochum,11,3,7
+2022/23,Bochum,12,0,7
+2022/23,Bochum,13,0,7
+2022/23,Bochum,14,3,10
+2022/23,Bochum,15,3,13
+2022/23,Bochum,16,3,16
+2022/23,Bochum,17,0,16
+2022/23,Bochum,18,0,16
+2022/23,Bochum,19,3,19
+2022/23,Bochum,20,0,19
+2022/23,Bochum,21,0,19
+2022/23,Bochum,22,0,19
+2022/23,Bochum,23,0,19
+2022/23,Bochum,24,3,22
+2022/23,Bochum,25,3,25
+2022/23,Bochum,26,1,26
+2022/23,Bochum,27,0,26
+2022/23,Bochum,28,1,27
+2022/23,Bochum,29,0,27
+2022/23,Bochum,30,1,28
+2022/23,Bochum,31,0,28
+2022/23,Bochum,32,3,31
+2022/23,Bochum,33,1,32
+2022/23,Bochum,34,3,35
+2022/23,Dortmund,1,3,3
+2022/23,Dortmund,2,3,6
+2022/23,Dortmund,3,0,6
+2022/23,Dortmund,4,3,9
+2022/23,Dortmund,5,3,12
+2022/23,Dortmund,6,0,12
+2022/23,Dortmund,7,3,15
+2022/23,Dortmund,8,0,15
+2022/23,Dortmund,9,1,16
+2022/23,Dortmund,10,0,16
+2022/23,Dortmund,11,3,19
+2022/23,Dortmund,12,3,22
+2022/23,Dortmund,13,3,25
+2022/23,Dortmund,14,0,25
+2022/23,Dortmund,15,0,25
+2022/23,Dortmund,16,3,28
+2022/23,Dortmund,17,3,31
+2022/23,Dortmund,18,3,34
+2022/23,Dortmund,19,3,37
+2022/23,Dortmund,20,3,40
+2022/23,Dortmund,21,3,43
+2022/23,Dortmund,22,3,46
+2022/23,Dortmund,23,3,49
+2022/23,Dortmund,24,1,50
+2022/23,Dortmund,25,3,53
+2022/23,Dortmund,26,0,53
+2022/23,Dortmund,27,3,56
+2022/23,Dortmund,28,1,57
+2022/23,Dortmund,29,3,60
+2022/23,Dortmund,30,1,61
+2022/23,Dortmund,31,3,64
+2022/23,Dortmund,32,3,67
+2022/23,Dortmund,33,3,70
+2022/23,Dortmund,34,1,71
+2022/23,Ein Frankfurt,1,0,0
+2022/23,Ein Frankfurt,2,1,1
+2022/23,Ein Frankfurt,3,1,2
+2022/23,Ein Frankfurt,4,3,5
+2022/23,Ein Frankfurt,5,3,8
+2022/23,Ein Frankfurt,6,0,8
+2022/23,Ein Frankfurt,7,3,11
+2022/23,Ein Frankfurt,8,3,14
+2022/23,Ein Frankfurt,9,0,14
+2022/23,Ein Frankfurt,10,3,17
+2022/23,Ein Frankfurt,11,3,20
+2022/23,Ein Frankfurt,12,0,20
+2022/23,Ein Frankfurt,13,3,23
+2022/23,Ein Frankfurt,14,3,26
+2022/23,Ein Frankfurt,15,1,27
+2022/23,Ein Frankfurt,16,3,30
+2022/23,Ein Frankfurt,17,1,31
+2022/23,Ein Frankfurt,18,1,32
+2022/23,Ein Frankfurt,19,3,35
+2022/23,Ein Frankfurt,20,0,35
+2022/23,Ein Frankfurt,21,3,38
+2022/23,Ein Frankfurt,22,0,38
+2022/23,Ein Frankfurt,23,1,39
+2022/23,Ein Frankfurt,24,1,40
+2022/23,Ein Frankfurt,25,0,40
+2022/23,Ein Frankfurt,26,1,41
+2022/23,Ein Frankfurt,27,0,41
+2022/23,Ein Frankfurt,28,1,42
+2022/23,Ein Frankfurt,29,0,42
+2022/23,Ein Frankfurt,30,1,43
+2022/23,Ein Frankfurt,31,0,43
+2022/23,Ein Frankfurt,32,3,46
+2022/23,Ein Frankfurt,33,1,47
+2022/23,Ein Frankfurt,34,3,50
+2022/23,FC Koln,1,3,3
+2022/23,FC Koln,2,1,4
+2022/23,FC Koln,3,1,5
+2022/23,FC Koln,4,1,6
+2022/23,FC Koln,5,3,9
+2022/23,FC Koln,6,0,9
+2022/23,FC Koln,7,1,10
+2022/23,FC Koln,8,3,13
+2022/23,FC Koln,9,0,13
+2022/23,FC Koln,10,3,16
+2022/23,FC Koln,11,0,16
+2022/23,FC Koln,12,1,17
+2022/23,FC Koln,13,0,17
+2022/23,FC Koln,14,0,17
+2022/23,FC Koln,15,0,17
+2022/23,FC Koln,16,3,20
+2022/23,FC Koln,17,1,21
+2022/23,FC Koln,18,1,22
+2022/23,FC Koln,19,1,23
+2022/23,FC Koln,20,3,26
+2022/23,FC Koln,21,0,26
+2022/23,FC Koln,22,0,26
+2022/23,FC Koln,23,1,27
+2022/23,FC Koln,24,0,27
+2022/23,FC Koln,25,0,27
+2022/23,FC Koln,26,1,28
+2022/23,FC Koln,27,3,31
+2022/23,FC Koln,28,1,32
+2022/23,FC Koln,29,3,35
+2022/23,FC Koln,30,0,35
+2022/23,FC Koln,31,3,38
+2022/23,FC Koln,32,3,41
+2022/23,FC Koln,33,1,42
+2022/23,FC Koln,34,0,42
+2022/23,Freiburg,1,3,3
+2022/23,Freiburg,2,0,3
+2022/23,Freiburg,3,3,6
+2022/23,Freiburg,4,3,9
+2022/23,Freiburg,5,3,12
+2022/23,Freiburg,6,1,13
+2022/23,Freiburg,7,1,14
+2022/23,Freiburg,8,3,17
+2022/23,Freiburg,9,1,18
+2022/23,Freiburg,10,0,18
+2022/23,Freiburg,11,3,21
+2022/23,Freiburg,12,3,24
+2022/23,Freiburg,13,3,27
+2022/23,Freiburg,14,0,27
+2022/23,Freiburg,15,3,30
+2022/23,Freiburg,16,0,30
+2022/23,Freiburg,17,1,31
+2022/23,Freiburg,18,3,34
+2022/23,Freiburg,19,0,34
+2022/23,Freiburg,20,3,37
+2022/23,Freiburg,21,3,40
+2022/23,Freiburg,22,1,41
+2022/23,Freiburg,23,1,42
+2022/23,Freiburg,24,3,45
+2022/23,Freiburg,25,1,46
+2022/23,Freiburg,26,1,47
+2022/23,Freiburg,27,0,47
+2022/23,Freiburg,28,3,50
+2022/23,Freiburg,29,3,53
+2022/23,Freiburg,30,3,56
+2022/23,Freiburg,31,0,56
+2022/23,Freiburg,32,0,56
+2022/23,Freiburg,33,3,59
+2022/23,Freiburg,34,0,59
+2022/23,Hertha,1,0,0
+2022/23,Hertha,2,1,1
+2022/23,Hertha,3,0,1
+2022/23,Hertha,4,0,1
+2022/23,Hertha,5,3,4
+2022/23,Hertha,6,1,5
+2022/23,Hertha,7,1,6
+2022/23,Hertha,8,1,7
+2022/23,Hertha,9,1,8
+2022/23,Hertha,10,0,8
+2022/23,Hertha,11,3,11
+2022/23,Hertha,12,0,11
+2022/23,Hertha,13,0,11
+2022/23,Hertha,14,0,11
+2022/23,Hertha,15,3,14
+2022/23,Hertha,16,0,14
+2022/23,Hertha,17,0,14
+2022/23,Hertha,18,0,14
+2022/23,Hertha,19,0,14
+2022/23,Hertha,20,3,17
+2022/23,Hertha,21,0,17
+2022/23,Hertha,22,3,20
+2022/23,Hertha,23,0,20
+2022/23,Hertha,24,1,21
+2022/23,Hertha,25,0,21
+2022/23,Hertha,26,1,22
+2022/23,Hertha,27,0,22
+2022/23,Hertha,28,0,22
+2022/23,Hertha,29,0,22
+2022/23,Hertha,30,0,22
+2022/23,Hertha,31,3,25
+2022/23,Hertha,32,0,25
+2022/23,Hertha,33,1,26
+2022/23,Hertha,34,3,29
+2022/23,Hoffenheim,1,0,0
+2022/23,Hoffenheim,2,3,3
+2022/23,Hoffenheim,3,3,6
+2022/23,Hoffenheim,4,3,9
+2022/23,Hoffenheim,5,0,9
+2022/23,Hoffenheim,6,3,12
+2022/23,Hoffenheim,7,1,13
+2022/23,Hoffenheim,8,1,14
+2022/23,Hoffenheim,9,0,14
+2022/23,Hoffenheim,10,3,17
+2022/23,Hoffenheim,11,0,17
+2022/23,Hoffenheim,12,1,18
+2022/23,Hoffenheim,13,0,18
+2022/23,Hoffenheim,14,0,18
+2022/23,Hoffenheim,15,0,18
+2022/23,Hoffenheim,16,0,18
+2022/23,Hoffenheim,17,1,19
+2022/23,Hoffenheim,18,0,19
+2022/23,Hoffenheim,19,0,19
+2022/23,Hoffenheim,20,0,19
+2022/23,Hoffenheim,21,0,19
+2022/23,Hoffenheim,22,0,19
+2022/23,Hoffenheim,23,0,19
+2022/23,Hoffenheim,24,0,19
+2022/23,Hoffenheim,25,3,22
+2022/23,Hoffenheim,26,3,25
+2022/23,Hoffenheim,27,3,28
+2022/23,Hoffenheim,28,1,29
+2022/23,Hoffenheim,29,0,29
+2022/23,Hoffenheim,30,0,29
+2022/23,Hoffenheim,31,3,32
+2022/23,Hoffenheim,32,0,32
+2022/23,Hoffenheim,33,3,35
+2022/23,Hoffenheim,34,1,36
+2022/23,Leverkusen,1,0,0
+2022/23,Leverkusen,2,0,0
+2022/23,Leverkusen,3,0,0
+2022/23,Leverkusen,4,3,3
+2022/23,Leverkusen,5,0,3
+2022/23,Leverkusen,6,1,4
+2022/23,Leverkusen,7,1,5
+2022/23,Leverkusen,8,0,5
+2022/23,Leverkusen,9,3,8
+2022/23,Leverkusen,10,0,8
+2022/23,Leverkusen,11,1,9
+2022/23,Leverkusen,12,0,9
+2022/23,Leverkusen,13,3,12
+2022/23,Leverkusen,14,3,15
+2022/23,Leverkusen,15,3,18
+2022/23,Leverkusen,16,3,21
+2022/23,Leverkusen,17,3,24
+2022/23,Leverkusen,18,0,24
+2022/23,Leverkusen,19,0,24
+2022/23,Leverkusen,20,3,27
+2022/23,Leverkusen,21,0,27
+2022/23,Leverkusen,22,1,28
+2022/23,Leverkusen,23,3,31
+2022/23,Leverkusen,24,3,34
+2022/23,Leverkusen,25,3,37
+2022/23,Leverkusen,26,3,40
+2022/23,Leverkusen,27,3,43
+2022/23,Leverkusen,28,1,44
+2022/23,Leverkusen,29,3,47
+2022/23,Leverkusen,30,1,48
+2022/23,Leverkusen,31,0,48
+2022/23,Leverkusen,32,1,49
+2022/23,Leverkusen,33,1,50
+2022/23,Leverkusen,34,0,50
+2022/23,M'gladbach,1,3,3
+2022/23,M'gladbach,2,1,4
+2022/23,M'gladbach,3,3,7
+2022/23,M'gladbach,4,1,8
+2022/23,M'gladbach,5,0,8
+2022/23,M'gladbach,6,1,9
+2022/23,M'gladbach,7,3,12
+2022/23,M'gladbach,8,0,12
+2022/23,M'gladbach,9,3,15
+2022/23,M'gladbach,10,1,16
+2022/23,M'gladbach,11,0,16
+2022/23,M'gladbach,12,0,16
+2022/23,M'gladbach,13,3,19
+2022/23,M'gladbach,14,0,19
+2022/23,M'gladbach,15,3,22
+2022/23,M'gladbach,16,0,22
+2022/23,M'gladbach,17,0,22
+2022/23,M'gladbach,18,3,25
+2022/23,M'gladbach,19,1,26
+2022/23,M'gladbach,20,0,26
+2022/23,M'gladbach,21,3,29
+2022/23,M'gladbach,22,0,29
+2022/23,M'gladbach,23,1,30
+2022/23,M'gladbach,24,0,30
+2022/23,M'gladbach,25,1,31
+2022/23,M'gladbach,26,1,32
+2022/23,M'gladbach,27,3,35
+2022/23,M'gladbach,28,1,36
+2022/23,M'gladbach,29,0,36
+2022/23,M'gladbach,30,0,36
+2022/23,M'gladbach,31,3,39
+2022/23,M'gladbach,32,0,39
+2022/23,M'gladbach,33,1,40
+2022/23,M'gladbach,34,3,43
+2022/23,Mainz,1,3,3
+2022/23,Mainz,2,1,4
+2022/23,Mainz,3,3,7
+2022/23,Mainz,4,0,7
+2022/23,Mainz,5,3,10
+2022/23,Mainz,6,0,10
+2022/23,Mainz,7,1,11
+2022/23,Mainz,8,0,11
+2022/23,Mainz,9,1,12
+2022/23,Mainz,10,3,15
+2022/23,Mainz,11,3,18
+2022/23,Mainz,12,0,18
+2022/23,Mainz,13,0,18
+2022/23,Mainz,14,0,18
+2022/23,Mainz,15,1,19
+2022/23,Mainz,16,1,20
+2022/23,Mainz,17,0,20
+2022/23,Mainz,18,3,23
+2022/23,Mainz,19,0,23
+2022/23,Mainz,20,3,26
+2022/23,Mainz,21,3,29
+2022/23,Mainz,22,3,32
+2022/23,Mainz,23,3,35
+2022/23,Mainz,24,1,36
+2022/23,Mainz,25,1,37
+2022/23,Mainz,26,3,40
+2022/23,Mainz,27,1,41
+2022/23,Mainz,28,1,42
+2022/23,Mainz,29,3,45
+2022/23,Mainz,30,0,45
+2022/23,Mainz,31,0,45
+2022/23,Mainz,32,0,45
+2022/23,Mainz,33,0,45
+2022/23,Mainz,34,1,46
+2022/23,RB Leipzig,1,1,1
+2022/23,RB Leipzig,2,1,2
+2022/23,RB Leipzig,3,0,2
+2022/23,RB Leipzig,4,3,5
+2022/23,RB Leipzig,5,0,5
+2022/23,RB Leipzig,6,3,8
+2022/23,RB Leipzig,7,0,8
+2022/23,RB Leipzig,8,3,11
+2022/23,RB Leipzig,9,1,12
+2022/23,RB Leipzig,10,3,15
+2022/23,RB Leipzig,11,1,16
+2022/23,RB Leipzig,12,3,19
+2022/23,RB Leipzig,13,3,22
+2022/23,RB Leipzig,14,3,25
+2022/23,RB Leipzig,15,3,28
+2022/23,RB Leipzig,16,1,29
+2022/23,RB Leipzig,17,3,32
+2022/23,RB Leipzig,18,3,35
+2022/23,RB Leipzig,19,1,36
+2022/23,RB Leipzig,20,0,36
+2022/23,RB Leipzig,21,3,39
+2022/23,RB Leipzig,22,3,42
+2022/23,RB Leipzig,23,0,42
+2022/23,RB Leipzig,24,3,45
+2022/23,RB Leipzig,25,0,45
+2022/23,RB Leipzig,26,0,45
+2022/23,RB Leipzig,27,3,48
+2022/23,RB Leipzig,28,3,51
+2022/23,RB Leipzig,29,0,51
+2022/23,RB Leipzig,30,3,54
+2022/23,RB Leipzig,31,3,57
+2022/23,RB Leipzig,32,3,60
+2022/23,RB Leipzig,33,3,63
+2022/23,RB Leipzig,34,3,66
+2022/23,Schalke 04,1,0,0
+2022/23,Schalke 04,2,1,1
+2022/23,Schalke 04,3,1,2
+2022/23,Schalke 04,4,0,2
+2022/23,Schalke 04,5,1,3
+2022/23,Schalke 04,6,3,6
+2022/23,Schalke 04,7,0,6
+2022/23,Schalke 04,8,0,6
+2022/23,Schalke 04,9,0,6
+2022/23,Schalke 04,10,0,6
+2022/23,Schalke 04,11,0,6
+2022/23,Schalke 04,12,0,6
+2022/23,Schalke 04,13,0,6
+2022/23,Schalke 04,14,3,9
+2022/23,Schalke 04,15,0,9
+2022/23,Schalke 04,16,0,9
+2022/23,Schalke 04,17,0,9
+2022/23,Schalke 04,18,1,10
+2022/23,Schalke 04,19,1,11
+2022/23,Schalke 04,20,1,12
+2022/23,Schalke 04,21,1,13
+2022/23,Schalke 04,22,3,16
+2022/23,Schalke 04,23,3,19
+2022/23,Schalke 04,24,1,20
+2022/23,Schalke 04,25,1,21
+2022/23,Schalke 04,26,0,21
+2022/23,Schalke 04,27,0,21
+2022/23,Schalke 04,28,3,24
+2022/23,Schalke 04,29,0,24
+2022/23,Schalke 04,30,3,27
+2022/23,Schalke 04,31,3,30
+2022/23,Schalke 04,32,0,30
+2022/23,Schalke 04,33,1,31
+2022/23,Schalke 04,34,0,31
+2022/23,Stuttgart,1,1,1
+2022/23,Stuttgart,2,1,2
+2022/23,Stuttgart,3,0,2
+2022/23,Stuttgart,4,1,3
+2022/23,Stuttgart,5,1,4
+2022/23,Stuttgart,6,1,5
+2022/23,Stuttgart,7,0,5
+2022/23,Stuttgart,8,0,5
+2022/23,Stuttgart,9,0,5
+2022/23,Stuttgart,10,3,8
+2022/23,Stuttgart,11,0,8
+2022/23,Stuttgart,12,3,11
+2022/23,Stuttgart,13,0,11
+2022/23,Stuttgart,14,3,14
+2022/23,Stuttgart,15,0,14
+2022/23,Stuttgart,16,1,15
+2022/23,Stuttgart,17,1,16
+2022/23,Stuttgart,18,0,16
+2022/23,Stuttgart,19,0,16
+2022/23,Stuttgart,20,0,16
+2022/23,Stuttgart,21,3,19
+2022/23,Stuttgart,22,0,19
+2022/23,Stuttgart,23,0,19
+2022/23,Stuttgart,24,1,20
+2022/23,Stuttgart,25,0,20
+2022/23,Stuttgart,26,0,20
+2022/23,Stuttgart,27,3,23
+2022/23,Stuttgart,28,1,24
+2022/23,Stuttgart,29,1,25
+2022/23,Stuttgart,30,3,28
+2022/23,Stuttgart,31,0,28
+2022/23,Stuttgart,32,1,29
+2022/23,Stuttgart,33,3,32
+2022/23,Stuttgart,34,1,33
+2022/23,Union Berlin,1,3,3
+2022/23,Union Berlin,2,1,4
+2022/23,Union Berlin,3,3,7
+2022/23,Union Berlin,4,3,10
+2022/23,Union Berlin,5,1,11
+2022/23,Union Berlin,6,3,14
+2022/23,Union Berlin,7,3,17
+2022/23,Union Berlin,8,0,17
+2022/23,Union Berlin,9,3,20
+2022/23,Union Berlin,10,3,23
+2022/23,Union Berlin,11,0,23
+2022/23,Union Berlin,12,3,26
+2022/23,Union Berlin,13,0,26
+2022/23,Union Berlin,14,1,27
+2022/23,Union Berlin,15,0,27
+2022/23,Union Berlin,16,3,30
+2022/23,Union Berlin,17,3,33
+2022/23,Union Berlin,18,3,36
+2022/23,Union Berlin,19,3,39
+2022/23,Union Berlin,20,3,42
+2022/23,Union Berlin,21,1,43
+2022/23,Union Berlin,22,0,43
+2022/23,Union Berlin,23,1,44
+2022/23,Union Berlin,24,1,45
+2022/23,Union Berlin,25,3,48
+2022/23,Union Berlin,26,3,51
+2022/23,Union Berlin,27,0,51
+2022/23,Union Berlin,28,1,52
+2022/23,Union Berlin,29,3,55
+2022/23,Union Berlin,30,1,56
+2022/23,Union Berlin,31,0,56
+2022/23,Union Berlin,32,3,59
+2022/23,Union Berlin,33,0,59
+2022/23,Union Berlin,34,3,62
+2022/23,Werder Bremen,1,1,1
+2022/23,Werder Bremen,2,1,2
+2022/23,Werder Bremen,3,3,5
+2022/23,Werder Bremen,4,0,5
+2022/23,Werder Bremen,5,3,8
+2022/23,Werder Bremen,6,0,8
+2022/23,Werder Bremen,7,1,9
+2022/23,Werder Bremen,8,3,12
+2022/23,Werder Bremen,9,3,15
+2022/23,Werder Bremen,10,0,15
+2022/23,Werder Bremen,11,0,15
+2022/23,Werder Bremen,12,3,18
+2022/23,Werder Bremen,13,3,21
+2022/23,Werder Bremen,14,0,21
+2022/23,Werder Bremen,15,0,21
+2022/23,Werder Bremen,16,0,21
+2022/23,Werder Bremen,17,0,21
+2022/23,Werder Bremen,18,3,24
+2022/23,Werder Bremen,19,3,27
+2022/23,Werder Bremen,20,0,27
+2022/23,Werder Bremen,21,0,27
+2022/23,Werder Bremen,22,3,30
+2022/23,Werder Bremen,23,0,30
+2022/23,Werder Bremen,24,0,30
+2022/23,Werder Bremen,25,1,31
+2022/23,Werder Bremen,26,0,31
+2022/23,Werder Bremen,27,1,32
+2022/23,Werder Bremen,28,0,32
+2022/23,Werder Bremen,29,3,35
+2022/23,Werder Bremen,30,0,35
+2022/23,Werder Bremen,31,0,35
+2022/23,Werder Bremen,32,0,35
+2022/23,Werder Bremen,33,1,36
+2022/23,Werder Bremen,34,0,36
+2022/23,Wolfsburg,1,1,1
+2022/23,Wolfsburg,2,0,1
+2022/23,Wolfsburg,3,1,2
+2022/23,Wolfsburg,4,0,2
+2022/23,Wolfsburg,5,0,2
+2022/23,Wolfsburg,6,3,5
+2022/23,Wolfsburg,7,0,5
+2022/23,Wolfsburg,8,3,8
+2022/23,Wolfsburg,9,1,9
+2022/23,Wolfsburg,10,1,10
+2022/23,Wolfsburg,11,1,11
+2022/23,Wolfsburg,12,3,14
+2022/23,Wolfsburg,13,3,17
+2022/23,Wolfsburg,14,3,20
+2022/23,Wolfsburg,15,3,23
+2022/23,Wolfsburg,16,3,26
+2022/23,Wolfsburg,17,3,29
+2022/23,Wolfsburg,18,0,29
+2022/23,Wolfsburg,19,0,29
+2022/23,Wolfsburg,20,1,30
+2022/23,Wolfsburg,21,0,30
+2022/23,Wolfsburg,22,3,33
+2022/23,Wolfsburg,23,1,34
+2022/23,Wolfsburg,24,1,35
+2022/23,Wolfsburg,25,3,38
+2022/23,Wolfsburg,26,1,39
+2022/23,Wolfsburg,27,0,39
+2022/23,Wolfsburg,28,1,40
+2022/23,Wolfsburg,29,3,43
+2022/23,Wolfsburg,30,3,46
+2022/23,Wolfsburg,31,0,46
+2022/23,Wolfsburg,32,3,49
+2022/23,Wolfsburg,33,0,49
+2022/23,Wolfsburg,34,0,49
+2023/24,Augsburg,1,1,1
+2023/24,Augsburg,2,0,1
+2023/24,Augsburg,3,1,2
+2023/24,Augsburg,4,0,2
+2023/24,Augsburg,5,3,5
+2023/24,Augsburg,6,0,5
+2023/24,Augsburg,7,0,5
+2023/24,Augsburg,8,3,8
+2023/24,Augsburg,9,3,11
+2023/24,Augsburg,10,1,12
+2023/24,Augsburg,11,1,13
+2023/24,Augsburg,12,1,14
+2023/24,Augsburg,13,3,17
+2023/24,Augsburg,14,0,17
+2023/24,Augsburg,15,1,18
+2023/24,Augsburg,16,0,18
+2023/24,Augsburg,17,0,18
+2023/24,Augsburg,18,3,21
+2023/24,Augsburg,19,0,21
+2023/24,Augsburg,20,1,22
+2023/24,Augsburg,21,1,23
+2023/24,Augsburg,22,0,23
+2023/24,Augsburg,23,3,26
+2023/24,Augsburg,24,3,29
+2023/24,Augsburg,25,3,32
+2023/24,Augsburg,26,3,35
+2023/24,Augsburg,27,1,36
+2023/24,Augsburg,28,0,36
+2023/24,Augsburg,29,3,39
+2023/24,Augsburg,30,0,39
+2023/24,Augsburg,31,0,39
+2023/24,Augsburg,32,0,39
+2023/24,Augsburg,33,0,39
+2023/24,Augsburg,34,0,39
+2023/24,Bayern Munich,1,3,3
+2023/24,Bayern Munich,2,3,6
+2023/24,Bayern Munich,3,3,9
+2023/24,Bayern Munich,4,1,10
+2023/24,Bayern Munich,5,3,13
+2023/24,Bayern Munich,6,1,14
+2023/24,Bayern Munich,7,3,17
+2023/24,Bayern Munich,8,3,20
+2023/24,Bayern Munich,9,3,23
+2023/24,Bayern Munich,10,3,26
+2023/24,Bayern Munich,11,3,29
+2023/24,Bayern Munich,12,3,32
+2023/24,Bayern Munich,13,0,32
+2023/24,Bayern Munich,14,3,35
+2023/24,Bayern Munich,15,3,38
+2023/24,Bayern Munich,16,3,41
+2023/24,Bayern Munich,17,0,41
+2023/24,Bayern Munich,18,3,44
+2023/24,Bayern Munich,19,3,47
+2023/24,Bayern Munich,20,3,50
+2023/24,Bayern Munich,21,0,50
+2023/24,Bayern Munich,22,0,50
+2023/24,Bayern Munich,23,3,53
+2023/24,Bayern Munich,24,1,54
+2023/24,Bayern Munich,25,3,57
+2023/24,Bayern Munich,26,3,60
+2023/24,Bayern Munich,27,0,60
+2023/24,Bayern Munich,28,0,60
+2023/24,Bayern Munich,29,3,63
+2023/24,Bayern Munich,30,3,66
+2023/24,Bayern Munich,31,3,69
+2023/24,Bayern Munich,32,0,69
+2023/24,Bayern Munich,33,3,72
+2023/24,Bayern Munich,34,0,72
+2023/24,Bochum,1,0,0
+2023/24,Bochum,2,1,1
+2023/24,Bochum,3,1,2
+2023/24,Bochum,4,1,3
+2023/24,Bochum,5,0,3
+2023/24,Bochum,6,0,3
+2023/24,Bochum,7,1,4
+2023/24,Bochum,8,0,4
+2023/24,Bochum,9,1,5
+2023/24,Bochum,10,3,8
+2023/24,Bochum,11,1,9
+2023/24,Bochum,12,1,10
+2023/24,Bochum,13,3,13
+2023/24,Bochum,14,0,13
+2023/24,Bochum,15,3,16
+2023/24,Bochum,16,0,16
+2023/24,Bochum,17,1,17
+2023/24,Bochum,18,3,20
+2023/24,Bochum,19,0,20
+2023/24,Bochum,20,1,21
+2023/24,Bochum,21,1,22
+2023/24,Bochum,22,3,25
+2023/24,Bochum,23,0,25
+2023/24,Bochum,24,0,25
+2023/24,Bochum,25,0,25
+2023/24,Bochum,26,0,25
+2023/24,Bochum,27,1,26
+2023/24,Bochum,28,0,26
+2023/24,Bochum,29,1,27
+2023/24,Bochum,30,0,27
+2023/24,Bochum,31,3,30
+2023/24,Bochum,32,3,33
+2023/24,Bochum,33,0,33
+2023/24,Bochum,34,0,33
+2023/24,Darmstadt,1,0,0
+2023/24,Darmstadt,2,0,0
+2023/24,Darmstadt,3,0,0
+2023/24,Darmstadt,4,1,1
+2023/24,Darmstadt,5,0,1
+2023/24,Darmstadt,6,3,4
+2023/24,Darmstadt,7,3,7
+2023/24,Darmstadt,8,0,7
+2023/24,Darmstadt,9,0,7
+2023/24,Darmstadt,10,0,7
+2023/24,Darmstadt,11,1,8
+2023/24,Darmstadt,12,1,9
+2023/24,Darmstadt,13,0,9
+2023/24,Darmstadt,14,0,9
+2023/24,Darmstadt,15,0,9
+2023/24,Darmstadt,16,1,10
+2023/24,Darmstadt,17,0,10
+2023/24,Darmstadt,18,1,11
+2023/24,Darmstadt,19,0,11
+2023/24,Darmstadt,20,0,11
+2023/24,Darmstadt,21,1,12
+2023/24,Darmstadt,22,0,12
+2023/24,Darmstadt,23,1,13
+2023/24,Darmstadt,24,0,13
+2023/24,Darmstadt,25,0,13
+2023/24,Darmstadt,26,0,13
+2023/24,Darmstadt,27,1,14
+2023/24,Darmstadt,28,0,14
+2023/24,Darmstadt,29,0,14
+2023/24,Darmstadt,30,3,17
+2023/24,Darmstadt,31,0,17
+2023/24,Darmstadt,32,0,17
+2023/24,Darmstadt,33,0,17
+2023/24,Darmstadt,34,0,17
+2023/24,Dortmund,1,3,3
+2023/24,Dortmund,2,1,4
+2023/24,Dortmund,3,1,5
+2023/24,Dortmund,4,3,8
+2023/24,Dortmund,5,3,11
+2023/24,Dortmund,6,3,14
+2023/24,Dortmund,7,3,17
+2023/24,Dortmund,8,3,20
+2023/24,Dortmund,9,1,21
+2023/24,Dortmund,10,0,21
+2023/24,Dortmund,11,0,21
+2023/24,Dortmund,12,3,24
+2023/24,Dortmund,13,1,25
+2023/24,Dortmund,14,0,25
+2023/24,Dortmund,15,1,26
+2023/24,Dortmund,16,1,27
+2023/24,Dortmund,17,3,30
+2023/24,Dortmund,18,3,33
+2023/24,Dortmund,19,3,36
+2023/24,Dortmund,20,1,37
+2023/24,Dortmund,21,3,40
+2023/24,Dortmund,22,1,41
+2023/24,Dortmund,23,0,41
+2023/24,Dortmund,24,3,44
+2023/24,Dortmund,25,3,47
+2023/24,Dortmund,26,3,50
+2023/24,Dortmund,27,3,53
+2023/24,Dortmund,28,0,53
+2023/24,Dortmund,29,3,56
+2023/24,Dortmund,30,1,57
+2023/24,Dortmund,31,0,57
+2023/24,Dortmund,32,3,60
+2023/24,Dortmund,33,0,60
+2023/24,Dortmund,34,3,63
+2023/24,Ein Frankfurt,1,3,3
+2023/24,Ein Frankfurt,2,1,4
+2023/24,Ein Frankfurt,3,1,5
+2023/24,Ein Frankfurt,4,1,6
+2023/24,Ein Frankfurt,5,1,7
+2023/24,Ein Frankfurt,6,0,7
+2023/24,Ein Frankfurt,7,3,10
+2023/24,Ein Frankfurt,8,3,13
+2023/24,Ein Frankfurt,9,1,14
+2023/24,Ein Frankfurt,10,3,17
+2023/24,Ein Frankfurt,11,1,18
+2023/24,Ein Frankfurt,12,0,18
+2023/24,Ein Frankfurt,13,0,18
+2023/24,Ein Frankfurt,14,3,21
+2023/24,Ein Frankfurt,15,0,21
+2023/24,Ein Frankfurt,16,3,24
+2023/24,Ein Frankfurt,17,3,27
+2023/24,Ein Frankfurt,18,1,28
+2023/24,Ein Frankfurt,19,3,31
+2023/24,Ein Frankfurt,20,0,31
+2023/24,Ein Frankfurt,21,1,32
+2023/24,Ein Frankfurt,22,1,33
+2023/24,Ein Frankfurt,23,1,34
+2023/24,Ein Frankfurt,24,3,37
+2023/24,Ein Frankfurt,25,3,40
+2023/24,Ein Frankfurt,26,0,40
+2023/24,Ein Frankfurt,27,1,41
+2023/24,Ein Frankfurt,28,1,42
+2023/24,Ein Frankfurt,29,0,42
+2023/24,Ein Frankfurt,30,3,45
+2023/24,Ein Frankfurt,31,0,45
+2023/24,Ein Frankfurt,32,0,45
+2023/24,Ein Frankfurt,33,1,46
+2023/24,Ein Frankfurt,34,1,47
+2023/24,FC Koln,1,0,0
+2023/24,FC Koln,2,0,0
+2023/24,FC Koln,3,1,1
+2023/24,FC Koln,4,0,1
+2023/24,FC Koln,5,0,1
+2023/24,FC Koln,6,0,1
+2023/24,FC Koln,7,0,1
+2023/24,FC Koln,8,3,4
+2023/24,FC Koln,9,0,4
+2023/24,FC Koln,10,1,5
+2023/24,FC Koln,11,1,6
+2023/24,FC Koln,12,0,6
+2023/24,FC Koln,13,3,9
+2023/24,FC Koln,14,1,10
+2023/24,FC Koln,15,0,10
+2023/24,FC Koln,16,0,10
+2023/24,FC Koln,17,1,11
+2023/24,FC Koln,18,0,11
+2023/24,FC Koln,19,1,12
+2023/24,FC Koln,20,3,15
+2023/24,FC Koln,21,1,16
+2023/24,FC Koln,22,0,16
+2023/24,FC Koln,23,1,17
+2023/24,FC Koln,24,0,17
+2023/24,FC Koln,25,1,18
+2023/24,FC Koln,26,0,18
+2023/24,FC Koln,27,1,19
+2023/24,FC Koln,28,3,22
+2023/24,FC Koln,29,0,22
+2023/24,FC Koln,30,0,22
+2023/24,FC Koln,31,1,23
+2023/24,FC Koln,32,1,24
+2023/24,FC Koln,33,3,27
+2023/24,FC Koln,34,0,27
+2023/24,Freiburg,1,3,3
+2023/24,Freiburg,2,3,6
+2023/24,Freiburg,3,0,6
+2023/24,Freiburg,4,0,6
+2023/24,Freiburg,5,1,7
+2023/24,Freiburg,6,3,10
+2023/24,Freiburg,7,0,10
+2023/24,Freiburg,8,3,13
+2023/24,Freiburg,9,0,13
+2023/24,Freiburg,10,1,14
+2023/24,Freiburg,11,0,14
+2023/24,Freiburg,12,1,15
+2023/24,Freiburg,13,3,18
+2023/24,Freiburg,14,3,21
+2023/24,Freiburg,15,3,24
+2023/24,Freiburg,16,0,24
+2023/24,Freiburg,17,1,25
+2023/24,Freiburg,18,3,28
+2023/24,Freiburg,19,0,28
+2023/24,Freiburg,20,0,28
+2023/24,Freiburg,21,0,28
+2023/24,Freiburg,22,1,29
+2023/24,Freiburg,23,0,29
+2023/24,Freiburg,24,1,30
+2023/24,Freiburg,25,3,33
+2023/24,Freiburg,26,0,33
+2023/24,Freiburg,27,3,36
+2023/24,Freiburg,28,0,36
+2023/24,Freiburg,29,3,39
+2023/24,Freiburg,30,1,40
+2023/24,Freiburg,31,0,40
+2023/24,Freiburg,32,1,41
+2023/24,Freiburg,33,1,42
+2023/24,Freiburg,34,0,42
+2023/24,Heidenheim,1,0,0
+2023/24,Heidenheim,2,0,0
+2023/24,Heidenheim,3,1,1
+2023/24,Heidenheim,4,3,4
+2023/24,Heidenheim,5,0,4
+2023/24,Heidenheim,6,3,7
+2023/24,Heidenheim,7,0,7
+2023/24,Heidenheim,8,0,7
+2023/24,Heidenheim,9,0,7
+2023/24,Heidenheim,10,3,10
+2023/24,Heidenheim,11,0,10
+2023/24,Heidenheim,12,1,11
+2023/24,Heidenheim,13,0,11
+2023/24,Heidenheim,14,3,14
+2023/24,Heidenheim,15,3,17
+2023/24,Heidenheim,16,3,20
+2023/24,Heidenheim,17,1,21
+2023/24,Heidenheim,18,1,22
+2023/24,Heidenheim,19,1,23
+2023/24,Heidenheim,20,1,24
+2023/24,Heidenheim,21,3,27
+2023/24,Heidenheim,22,0,27
+2023/24,Heidenheim,23,1,28
+2023/24,Heidenheim,24,0,28
+2023/24,Heidenheim,25,0,28
+2023/24,Heidenheim,26,1,29
+2023/24,Heidenheim,27,1,30
+2023/24,Heidenheim,28,3,33
+2023/24,Heidenheim,29,1,34
+2023/24,Heidenheim,30,0,34
+2023/24,Heidenheim,31,3,37
+2023/24,Heidenheim,32,1,38
+2023/24,Heidenheim,33,1,39
+2023/24,Heidenheim,34,3,42
+2023/24,Hoffenheim,1,0,0
+2023/24,Hoffenheim,2,3,3
+2023/24,Hoffenheim,3,3,6
+2023/24,Hoffenheim,4,3,9
+2023/24,Hoffenheim,5,3,12
+2023/24,Hoffenheim,6,0,12
+2023/24,Hoffenheim,7,3,15
+2023/24,Hoffenheim,8,0,15
+2023/24,Hoffenheim,9,3,18
+2023/24,Hoffenheim,10,0,18
+2023/24,Hoffenheim,11,1,19
+2023/24,Hoffenheim,12,1,20
+2023/24,Hoffenheim,13,0,20
+2023/24,Hoffenheim,14,3,23
+2023/24,Hoffenheim,15,0,23
+2023/24,Hoffenheim,16,1,24
+2023/24,Hoffenheim,17,0,24
+2023/24,Hoffenheim,18,0,24
+2023/24,Hoffenheim,19,1,25
+2023/24,Hoffenheim,20,1,26
+2023/24,Hoffenheim,21,1,27
+2023/24,Hoffenheim,22,0,27
+2023/24,Hoffenheim,23,3,30
+2023/24,Hoffenheim,24,3,33
+2023/24,Hoffenheim,25,0,33
+2023/24,Hoffenheim,26,0,33
+2023/24,Hoffenheim,27,0,33
+2023/24,Hoffenheim,28,3,36
+2023/24,Hoffenheim,29,0,36
+2023/24,Hoffenheim,30,3,39
+2023/24,Hoffenheim,31,0,39
+2023/24,Hoffenheim,32,1,40
+2023/24,Hoffenheim,33,3,43
+2023/24,Hoffenheim,34,3,46
+2023/24,Leverkusen,1,3,3
+2023/24,Leverkusen,2,3,6
+2023/24,Leverkusen,3,3,9
+2023/24,Leverkusen,4,1,10
+2023/24,Leverkusen,5,3,13
+2023/24,Leverkusen,6,3,16
+2023/24,Leverkusen,7,3,19
+2023/24,Leverkusen,8,3,22
+2023/24,Leverkusen,9,3,25
+2023/24,Leverkusen,10,3,28
+2023/24,Leverkusen,11,3,31
+2023/24,Leverkusen,12,3,34
+2023/24,Leverkusen,13,1,35
+2023/24,Leverkusen,14,1,36
+2023/24,Leverkusen,15,3,39
+2023/24,Leverkusen,16,3,42
+2023/24,Leverkusen,17,3,45
+2023/24,Leverkusen,18,3,48
+2023/24,Leverkusen,19,1,49
+2023/24,Leverkusen,20,3,52
+2023/24,Leverkusen,21,3,55
+2023/24,Leverkusen,22,3,58
+2023/24,Leverkusen,23,3,61
+2023/24,Leverkusen,24,3,64
+2023/24,Leverkusen,25,3,67
+2023/24,Leverkusen,26,3,70
+2023/24,Leverkusen,27,3,73
+2023/24,Leverkusen,28,3,76
+2023/24,Leverkusen,29,3,79
+2023/24,Leverkusen,30,1,80
+2023/24,Leverkusen,31,1,81
+2023/24,Leverkusen,32,3,84
+2023/24,Leverkusen,33,3,87
+2023/24,Leverkusen,34,3,90
+2023/24,M'gladbach,1,1,1
+2023/24,M'gladbach,2,0,1
+2023/24,M'gladbach,3,0,1
+2023/24,M'gladbach,4,1,2
+2023/24,M'gladbach,5,0,2
+2023/24,M'gladbach,6,3,5
+2023/24,M'gladbach,7,1,6
+2023/24,M'gladbach,8,0,6
+2023/24,M'gladbach,9,3,9
+2023/24,M'gladbach,10,1,10
+2023/24,M'gladbach,11,3,13
+2023/24,M'gladbach,12,0,13
+2023/24,M'gladbach,13,3,16
+2023/24,M'gladbach,14,0,16
+2023/24,M'gladbach,15,1,17
+2023/24,M'gladbach,16,0,17
+2023/24,M'gladbach,17,3,20
+2023/24,M'gladbach,18,0,20
+2023/24,M'gladbach,19,1,21
+2023/24,M'gladbach,20,0,21
+2023/24,M'gladbach,21,1,22
+2023/24,M'gladbach,22,0,22
+2023/24,M'gladbach,23,3,25
+2023/24,M'gladbach,24,1,26
+2023/24,M'gladbach,25,1,27
+2023/24,M'gladbach,26,1,28
+2023/24,M'gladbach,27,0,28
+2023/24,M'gladbach,28,3,31
+2023/24,M'gladbach,29,0,31
+2023/24,M'gladbach,30,0,31
+2023/24,M'gladbach,31,1,32
+2023/24,M'gladbach,32,1,33
+2023/24,M'gladbach,33,1,34
+2023/24,M'gladbach,34,0,34
+2023/24,Mainz,1,0,0
+2023/24,Mainz,2,1,1
+2023/24,Mainz,3,0,1
+2023/24,Mainz,4,0,1
+2023/24,Mainz,5,0,1
+2023/24,Mainz,6,0,1
+2023/24,Mainz,7,1,2
+2023/24,Mainz,8,0,2
+2023/24,Mainz,9,1,3
+2023/24,Mainz,10,3,6
+2023/24,Mainz,11,1,7
+2023/24,Mainz,12,1,8
+2023/24,Mainz,13,0,8
+2023/24,Mainz,14,1,9
+2023/24,Mainz,15,0,9
+2023/24,Mainz,16,1,10
+2023/24,Mainz,17,1,11
+2023/24,Mainz,18,0,11
+2023/24,Mainz,19,0,11
+2023/24,Mainz,20,1,12
+2023/24,Mainz,21,0,12
+2023/24,Mainz,22,3,15
+2023/24,Mainz,23,0,15
+2023/24,Mainz,24,1,16
+2023/24,Mainz,25,0,16
+2023/24,Mainz,26,3,19
+2023/24,Mainz,27,1,20
+2023/24,Mainz,28,3,23
+2023/24,Mainz,29,3,26
+2023/24,Mainz,30,1,27
+2023/24,Mainz,31,1,28
+2023/24,Mainz,32,1,29
+2023/24,Mainz,33,3,32
+2023/24,Mainz,34,3,35
+2023/24,RB Leipzig,1,0,0
+2023/24,RB Leipzig,2,3,3
+2023/24,RB Leipzig,3,3,6
+2023/24,RB Leipzig,4,3,9
+2023/24,RB Leipzig,5,3,12
+2023/24,RB Leipzig,6,1,13
+2023/24,RB Leipzig,7,1,14
+2023/24,RB Leipzig,8,3,17
+2023/24,RB Leipzig,9,3,20
+2023/24,RB Leipzig,10,0,20
+2023/24,RB Leipzig,11,3,23
+2023/24,RB Leipzig,12,0,23
+2023/24,RB Leipzig,13,3,26
+2023/24,RB Leipzig,14,3,29
+2023/24,RB Leipzig,15,3,32
+2023/24,RB Leipzig,16,1,33
+2023/24,RB Leipzig,17,0,33
+2023/24,RB Leipzig,18,0,33
+2023/24,RB Leipzig,19,0,33
+2023/24,RB Leipzig,20,3,36
+2023/24,RB Leipzig,21,1,37
+2023/24,RB Leipzig,22,3,40
+2023/24,RB Leipzig,23,0,40
+2023/24,RB Leipzig,24,3,43
+2023/24,RB Leipzig,25,3,46
+2023/24,RB Leipzig,26,3,49
+2023/24,RB Leipzig,27,1,50
+2023/24,RB Leipzig,28,3,53
+2023/24,RB Leipzig,29,3,56
+2023/24,RB Leipzig,30,3,59
+2023/24,RB Leipzig,31,3,62
+2023/24,RB Leipzig,32,1,63
+2023/24,RB Leipzig,33,1,64
+2023/24,RB Leipzig,34,1,65
+2023/24,Stuttgart,1,3,3
+2023/24,Stuttgart,2,0,3
+2023/24,Stuttgart,3,3,6
+2023/24,Stuttgart,4,3,9
+2023/24,Stuttgart,5,3,12
+2023/24,Stuttgart,6,3,15
+2023/24,Stuttgart,7,3,18
+2023/24,Stuttgart,8,3,21
+2023/24,Stuttgart,9,0,21
+2023/24,Stuttgart,10,0,21
+2023/24,Stuttgart,11,3,24
+2023/24,Stuttgart,12,3,27
+2023/24,Stuttgart,13,3,30
+2023/24,Stuttgart,14,1,31
+2023/24,Stuttgart,15,0,31
+2023/24,Stuttgart,16,3,34
+2023/24,Stuttgart,17,0,34
+2023/24,Stuttgart,18,0,34
+2023/24,Stuttgart,19,3,37
+2023/24,Stuttgart,20,3,40
+2023/24,Stuttgart,21,3,43
+2023/24,Stuttgart,22,3,46
+2023/24,Stuttgart,23,1,47
+2023/24,Stuttgart,24,3,50
+2023/24,Stuttgart,25,3,53
+2023/24,Stuttgart,26,3,56
+2023/24,Stuttgart,27,1,57
+2023/24,Stuttgart,28,3,60
+2023/24,Stuttgart,29,3,63
+2023/24,Stuttgart,30,0,63
+2023/24,Stuttgart,31,1,64
+2023/24,Stuttgart,32,3,67
+2023/24,Stuttgart,33,3,70
+2023/24,Stuttgart,34,3,73
+2023/24,Union Berlin,1,3,3
+2023/24,Union Berlin,2,3,6
+2023/24,Union Berlin,3,0,6
+2023/24,Union Berlin,4,0,6
+2023/24,Union Berlin,5,0,6
+2023/24,Union Berlin,6,0,6
+2023/24,Union Berlin,7,0,6
+2023/24,Union Berlin,8,0,6
+2023/24,Union Berlin,9,0,6
+2023/24,Union Berlin,10,0,6
+2023/24,Union Berlin,11,0,6
+2023/24,Union Berlin,12,1,7
+2023/24,Union Berlin,13,3,10
+2023/24,Union Berlin,14,0,10
+2023/24,Union Berlin,15,3,13
+2023/24,Union Berlin,16,1,14
+2023/24,Union Berlin,17,0,14
+2023/24,Union Berlin,18,3,17
+2023/24,Union Berlin,19,0,17
+2023/24,Union Berlin,20,1,18
+2023/24,Union Berlin,21,3,21
+2023/24,Union Berlin,22,3,24
+2023/24,Union Berlin,23,1,25
+2023/24,Union Berlin,24,0,25
+2023/24,Union Berlin,25,0,25
+2023/24,Union Berlin,26,3,28
+2023/24,Union Berlin,27,1,29
+2023/24,Union Berlin,28,0,29
+2023/24,Union Berlin,29,0,29
+2023/24,Union Berlin,30,0,29
+2023/24,Union Berlin,31,1,30
+2023/24,Union Berlin,32,0,30
+2023/24,Union Berlin,33,0,30
+2023/24,Union Berlin,34,3,33
+2023/24,Werder Bremen,1,0,0
+2023/24,Werder Bremen,2,0,0
+2023/24,Werder Bremen,3,3,3
+2023/24,Werder Bremen,4,0,3
+2023/24,Werder Bremen,5,3,6
+2023/24,Werder Bremen,6,0,6
+2023/24,Werder Bremen,7,0,6
+2023/24,Werder Bremen,8,0,6
+2023/24,Werder Bremen,9,3,9
+2023/24,Werder Bremen,10,1,10
+2023/24,Werder Bremen,11,1,11
+2023/24,Werder Bremen,12,0,11
+2023/24,Werder Bremen,13,0,11
+2023/24,Werder Bremen,14,3,14
+2023/24,Werder Bremen,15,1,15
+2023/24,Werder Bremen,16,1,16
+2023/24,Werder Bremen,17,1,17
+2023/24,Werder Bremen,18,3,20
+2023/24,Werder Bremen,19,3,23
+2023/24,Werder Bremen,20,3,26
+2023/24,Werder Bremen,21,0,26
+2023/24,Werder Bremen,22,3,29
+2023/24,Werder Bremen,23,1,30
+2023/24,Werder Bremen,24,0,30
+2023/24,Werder Bremen,25,0,30
+2023/24,Werder Bremen,26,0,30
+2023/24,Werder Bremen,27,0,30
+2023/24,Werder Bremen,28,1,31
+2023/24,Werder Bremen,29,0,31
+2023/24,Werder Bremen,30,3,34
+2023/24,Werder Bremen,31,3,37
+2023/24,Werder Bremen,32,1,38
+2023/24,Werder Bremen,33,1,39
+2023/24,Werder Bremen,34,3,42
+2023/24,Wolfsburg,1,3,3
+2023/24,Wolfsburg,2,3,6
+2023/24,Wolfsburg,3,0,6
+2023/24,Wolfsburg,4,3,9
+2023/24,Wolfsburg,5,0,9
+2023/24,Wolfsburg,6,3,12
+2023/24,Wolfsburg,7,0,12
+2023/24,Wolfsburg,8,0,12
+2023/24,Wolfsburg,9,0,12
+2023/24,Wolfsburg,10,1,13
+2023/24,Wolfsburg,11,0,13
+2023/24,Wolfsburg,12,3,16
+2023/24,Wolfsburg,13,0,16
+2023/24,Wolfsburg,14,0,16
+2023/24,Wolfsburg,15,3,19
+2023/24,Wolfsburg,16,0,19
+2023/24,Wolfsburg,17,1,20
+2023/24,Wolfsburg,18,1,21
+2023/24,Wolfsburg,19,1,22
+2023/24,Wolfsburg,20,1,23
+2023/24,Wolfsburg,21,0,23
+2023/24,Wolfsburg,22,1,24
+2023/24,Wolfsburg,23,1,25
+2023/24,Wolfsburg,24,0,25
+2023/24,Wolfsburg,25,0,25
+2023/24,Wolfsburg,26,0,25
+2023/24,Wolfsburg,27,3,28
+2023/24,Wolfsburg,28,0,28
+2023/24,Wolfsburg,29,0,28
+2023/24,Wolfsburg,30,3,31
+2023/24,Wolfsburg,31,3,34
+2023/24,Wolfsburg,32,3,37
+2023/24,Wolfsburg,33,0,37
+2023/24,Wolfsburg,34,0,37
+2024/25,Augsburg,1,1,1
+2024/25,Augsburg,2,0,1
+2024/25,Augsburg,3,3,4
+2024/25,Augsburg,4,0,4
+2024/25,Augsburg,5,0,4
+2024/25,Augsburg,6,3,7
+2024/25,Augsburg,7,0,7
+2024/25,Augsburg,8,3,10
+2024/25,Augsburg,9,1,11
+2024/25,Augsburg,10,1,12
+2024/25,Augsburg,11,0,12
+2024/25,Augsburg,12,3,15
+2024/25,Augsburg,13,1,16
+2024/25,Augsburg,14,0,16
+2024/25,Augsburg,15,0,16
+2024/25,Augsburg,16,0,16
+2024/25,Augsburg,17,3,19
+2024/25,Augsburg,18,3,22
+2024/25,Augsburg,19,3,25
+2024/25,Augsburg,20,1,26
+2024/25,Augsburg,21,1,27
+2024/25,Augsburg,22,1,28
+2024/25,Augsburg,23,3,31
+2024/25,Augsburg,24,1,32
+2024/25,Augsburg,25,3,35
+2024/25,Augsburg,26,3,38
+2024/25,Augsburg,27,1,39
+2024/25,Augsburg,28,0,39
+2024/25,Augsburg,29,3,42
+2024/25,Augsburg,30,1,43
+2024/25,Augsburg,31,0,43
+2024/25,Augsburg,32,0,43
+2024/25,Augsburg,33,0,43
+2024/25,Augsburg,34,0,43
+2024/25,Bayern Munich,1,3,3
+2024/25,Bayern Munich,2,3,6
+2024/25,Bayern Munich,3,3,9
+2024/25,Bayern Munich,4,3,12
+2024/25,Bayern Munich,5,1,13
+2024/25,Bayern Munich,6,1,14
+2024/25,Bayern Munich,7,3,17
+2024/25,Bayern Munich,8,3,20
+2024/25,Bayern Munich,9,3,23
+2024/25,Bayern Munich,10,3,26
+2024/25,Bayern Munich,11,3,29
+2024/25,Bayern Munich,12,1,30
+2024/25,Bayern Munich,13,3,33
+2024/25,Bayern Munich,14,0,33
+2024/25,Bayern Munich,15,3,36
+2024/25,Bayern Munich,16,3,39
+2024/25,Bayern Munich,17,3,42
+2024/25,Bayern Munich,18,3,45
+2024/25,Bayern Munich,19,3,48
+2024/25,Bayern Munich,20,3,51
+2024/25,Bayern Munich,21,3,54
+2024/25,Bayern Munich,22,1,55
+2024/25,Bayern Munich,23,3,58
+2024/25,Bayern Munich,24,3,61
+2024/25,Bayern Munich,25,0,61
+2024/25,Bayern Munich,26,1,62
+2024/25,Bayern Munich,27,3,65
+2024/25,Bayern Munich,28,3,68
+2024/25,Bayern Munich,29,1,69
+2024/25,Bayern Munich,30,3,72
+2024/25,Bayern Munich,31,3,75
+2024/25,Bayern Munich,32,1,76
+2024/25,Bayern Munich,33,3,79
+2024/25,Bayern Munich,34,3,82
+2024/25,Bochum,1,0,0
+2024/25,Bochum,2,0,0
+2024/25,Bochum,3,0,0
+2024/25,Bochum,4,1,1
+2024/25,Bochum,5,0,1
+2024/25,Bochum,6,0,1
+2024/25,Bochum,7,0,1
+2024/25,Bochum,8,0,1
+2024/25,Bochum,9,0,1
+2024/25,Bochum,10,1,2
+2024/25,Bochum,11,0,2
+2024/25,Bochum,12,0,2
+2024/25,Bochum,13,0,2
+2024/25,Bochum,14,3,5
+2024/25,Bochum,15,3,8
+2024/25,Bochum,16,0,8
+2024/25,Bochum,17,3,11
+2024/25,Bochum,18,1,12
+2024/25,Bochum,19,0,12
+2024/25,Bochum,20,0,12
+2024/25,Bochum,21,1,13
+2024/25,Bochum,22,3,16
+2024/25,Bochum,23,1,17
+2024/25,Bochum,24,0,17
+2024/25,Bochum,25,3,20
+2024/25,Bochum,26,0,20
+2024/25,Bochum,27,0,20
+2024/25,Bochum,28,0,20
+2024/25,Bochum,29,0,20
+2024/25,Bochum,30,0,20
+2024/25,Bochum,31,1,21
+2024/25,Bochum,32,1,22
+2024/25,Bochum,33,0,22
+2024/25,Bochum,34,3,25
+2024/25,Dortmund,1,3,3
+2024/25,Dortmund,2,1,4
+2024/25,Dortmund,3,3,7
+2024/25,Dortmund,4,0,7
+2024/25,Dortmund,5,3,10
+2024/25,Dortmund,6,0,10
+2024/25,Dortmund,7,3,13
+2024/25,Dortmund,8,0,13
+2024/25,Dortmund,9,3,16
+2024/25,Dortmund,10,0,16
+2024/25,Dortmund,11,3,19
+2024/25,Dortmund,12,1,20
+2024/25,Dortmund,13,1,21
+2024/25,Dortmund,14,1,22
+2024/25,Dortmund,15,3,25
+2024/25,Dortmund,16,0,25
+2024/25,Dortmund,17,0,25
+2024/25,Dortmund,18,0,25
+2024/25,Dortmund,19,1,26
+2024/25,Dortmund,20,3,29
+2024/25,Dortmund,21,0,29
+2024/25,Dortmund,22,0,29
+2024/25,Dortmund,23,3,32
+2024/25,Dortmund,24,3,35
+2024/25,Dortmund,25,0,35
+2024/25,Dortmund,26,0,35
+2024/25,Dortmund,27,3,38
+2024/25,Dortmund,28,3,41
+2024/25,Dortmund,29,1,42
+2024/25,Dortmund,30,3,45
+2024/25,Dortmund,31,3,48
+2024/25,Dortmund,32,3,51
+2024/25,Dortmund,33,3,54
+2024/25,Dortmund,34,3,57
+2024/25,Ein Frankfurt,1,0,0
+2024/25,Ein Frankfurt,2,3,3
+2024/25,Ein Frankfurt,3,3,6
+2024/25,Ein Frankfurt,4,3,9
+2024/25,Ein Frankfurt,5,3,12
+2024/25,Ein Frankfurt,6,1,13
+2024/25,Ein Frankfurt,7,0,13
+2024/25,Ein Frankfurt,8,1,14
+2024/25,Ein Frankfurt,9,3,17
+2024/25,Ein Frankfurt,10,3,20
+2024/25,Ein Frankfurt,11,3,23
+2024/25,Ein Frankfurt,12,3,26
+2024/25,Ein Frankfurt,13,1,27
+2024/25,Ein Frankfurt,14,0,27
+2024/25,Ein Frankfurt,15,0,27
+2024/25,Ein Frankfurt,16,3,30
+2024/25,Ein Frankfurt,17,3,33
+2024/25,Ein Frankfurt,18,3,36
+2024/25,Ein Frankfurt,19,1,37
+2024/25,Ein Frankfurt,20,1,38
+2024/25,Ein Frankfurt,21,1,39
+2024/25,Ein Frankfurt,22,3,42
+2024/25,Ein Frankfurt,23,0,42
+2024/25,Ein Frankfurt,24,0,42
+2024/25,Ein Frankfurt,25,0,42
+2024/25,Ein Frankfurt,26,3,45
+2024/25,Ein Frankfurt,27,3,48
+2024/25,Ein Frankfurt,28,0,48
+2024/25,Ein Frankfurt,29,3,51
+2024/25,Ein Frankfurt,30,1,52
+2024/25,Ein Frankfurt,31,3,55
+2024/25,Ein Frankfurt,32,1,56
+2024/25,Ein Frankfurt,33,1,57
+2024/25,Ein Frankfurt,34,3,60
+2024/25,Freiburg,1,3,3
+2024/25,Freiburg,2,0,3
+2024/25,Freiburg,3,3,6
+2024/25,Freiburg,4,3,9
+2024/25,Freiburg,5,0,9
+2024/25,Freiburg,6,3,12
+2024/25,Freiburg,7,3,15
+2024/25,Freiburg,8,0,15
+2024/25,Freiburg,9,1,16
+2024/25,Freiburg,10,1,17
+2024/25,Freiburg,11,0,17
+2024/25,Freiburg,12,3,20
+2024/25,Freiburg,13,1,21
+2024/25,Freiburg,14,3,24
+2024/25,Freiburg,15,0,24
+2024/25,Freiburg,16,3,27
+2024/25,Freiburg,17,0,27
+2024/25,Freiburg,18,0,27
+2024/25,Freiburg,19,0,27
+2024/25,Freiburg,20,3,30
+2024/25,Freiburg,21,3,33
+2024/25,Freiburg,22,3,36
+2024/25,Freiburg,23,3,39
+2024/25,Freiburg,24,1,40
+2024/25,Freiburg,25,1,41
+2024/25,Freiburg,26,1,42
+2024/25,Freiburg,27,0,42
+2024/25,Freiburg,28,0,42
+2024/25,Freiburg,29,3,45
+2024/25,Freiburg,30,3,48
+2024/25,Freiburg,31,3,51
+2024/25,Freiburg,32,1,52
+2024/25,Freiburg,33,3,55
+2024/25,Freiburg,34,0,55
+2024/25,Heidenheim,1,3,3
+2024/25,Heidenheim,2,3,6
+2024/25,Heidenheim,3,0,6
+2024/25,Heidenheim,4,0,6
+2024/25,Heidenheim,5,3,9
+2024/25,Heidenheim,6,0,9
+2024/25,Heidenheim,7,0,9
+2024/25,Heidenheim,8,1,10
+2024/25,Heidenheim,9,0,10
+2024/25,Heidenheim,10,0,10
+2024/25,Heidenheim,11,0,10
+2024/25,Heidenheim,12,0,10
+2024/25,Heidenheim,13,0,10
+2024/25,Heidenheim,14,0,10
+2024/25,Heidenheim,15,0,10
+2024/25,Heidenheim,16,3,13
+2024/25,Heidenheim,17,1,14
+2024/25,Heidenheim,18,0,14
+2024/25,Heidenheim,19,0,14
+2024/25,Heidenheim,20,0,14
+2024/25,Heidenheim,21,0,14
+2024/25,Heidenheim,22,0,14
+2024/25,Heidenheim,23,1,15
+2024/25,Heidenheim,24,0,15
+2024/25,Heidenheim,25,1,16
+2024/25,Heidenheim,26,3,19
+2024/25,Heidenheim,27,3,22
+2024/25,Heidenheim,28,0,22
+2024/25,Heidenheim,29,0,22
+2024/25,Heidenheim,30,0,22
+2024/25,Heidenheim,31,3,25
+2024/25,Heidenheim,32,1,26
+2024/25,Heidenheim,33,3,29
+2024/25,Heidenheim,34,0,29
+2024/25,Hoffenheim,1,3,3
+2024/25,Hoffenheim,2,0,3
+2024/25,Hoffenheim,3,0,3
+2024/25,Hoffenheim,4,0,3
+2024/25,Hoffenheim,5,0,3
+2024/25,Hoffenheim,6,1,4
+2024/25,Hoffenheim,7,3,7
+2024/25,Hoffenheim,8,1,8
+2024/25,Hoffenheim,9,0,8
+2024/25,Hoffenheim,10,1,9
+2024/25,Hoffenheim,11,3,12
+2024/25,Hoffenheim,12,0,12
+2024/25,Hoffenheim,13,1,13
+2024/25,Hoffenheim,14,1,14
+2024/25,Hoffenheim,15,0,14
+2024/25,Hoffenheim,16,0,14
+2024/25,Hoffenheim,17,0,14
+2024/25,Hoffenheim,18,3,17
+2024/25,Hoffenheim,19,1,18
+2024/25,Hoffenheim,20,0,18
+2024/25,Hoffenheim,21,0,18
+2024/25,Hoffenheim,22,3,21
+2024/25,Hoffenheim,23,1,22
+2024/25,Hoffenheim,24,3,25
+2024/25,Hoffenheim,25,1,26
+2024/25,Hoffenheim,26,0,26
+2024/25,Hoffenheim,27,1,27
+2024/25,Hoffenheim,28,0,27
+2024/25,Hoffenheim,29,3,30
+2024/25,Hoffenheim,30,0,30
+2024/25,Hoffenheim,31,0,30
+2024/25,Hoffenheim,32,1,31
+2024/25,Hoffenheim,33,1,32
+2024/25,Hoffenheim,34,0,32
+2024/25,Holstein Kiel,1,0,0
+2024/25,Holstein Kiel,2,0,0
+2024/25,Holstein Kiel,3,0,0
+2024/25,Holstein Kiel,4,1,1
+2024/25,Holstein Kiel,5,0,1
+2024/25,Holstein Kiel,6,1,2
+2024/25,Holstein Kiel,7,0,2
+2024/25,Holstein Kiel,8,0,2
+2024/25,Holstein Kiel,9,3,5
+2024/25,Holstein Kiel,10,0,5
+2024/25,Holstein Kiel,11,0,5
+2024/25,Holstein Kiel,12,0,5
+2024/25,Holstein Kiel,13,0,5
+2024/25,Holstein Kiel,14,0,5
+2024/25,Holstein Kiel,15,3,8
+2024/25,Holstein Kiel,16,0,8
+2024/25,Holstein Kiel,17,3,11
+2024/25,Holstein Kiel,18,0,11
+2024/25,Holstein Kiel,19,1,12
+2024/25,Holstein Kiel,20,0,12
+2024/25,Holstein Kiel,21,1,13
+2024/25,Holstein Kiel,22,0,13
+2024/25,Holstein Kiel,23,0,13
+2024/25,Holstein Kiel,24,3,16
+2024/25,Holstein Kiel,25,1,17
+2024/25,Holstein Kiel,26,0,17
+2024/25,Holstein Kiel,27,0,17
+2024/25,Holstein Kiel,28,1,18
+2024/25,Holstein Kiel,29,0,18
+2024/25,Holstein Kiel,30,1,19
+2024/25,Holstein Kiel,31,3,22
+2024/25,Holstein Kiel,32,3,25
+2024/25,Holstein Kiel,33,0,25
+2024/25,Holstein Kiel,34,0,25
+2024/25,Leverkusen,1,3,3
+2024/25,Leverkusen,2,0,3
+2024/25,Leverkusen,3,3,6
+2024/25,Leverkusen,4,3,9
+2024/25,Leverkusen,5,1,10
+2024/25,Leverkusen,6,1,11
+2024/25,Leverkusen,7,3,14
+2024/25,Leverkusen,8,1,15
+2024/25,Leverkusen,9,1,16
+2024/25,Leverkusen,10,1,17
+2024/25,Leverkusen,11,3,20
+2024/25,Leverkusen,12,3,23
+2024/25,Leverkusen,13,3,26
+2024/25,Leverkusen,14,3,29
+2024/25,Leverkusen,15,3,32
+2024/25,Leverkusen,16,3,35
+2024/25,Leverkusen,17,3,38
+2024/25,Leverkusen,18,3,41
+2024/25,Leverkusen,19,1,42
+2024/25,Leverkusen,20,3,45
+2024/25,Leverkusen,21,1,46
+2024/25,Leverkusen,22,1,47
+2024/25,Leverkusen,23,3,50
+2024/25,Leverkusen,24,3,53
+2024/25,Leverkusen,25,0,53
+2024/25,Leverkusen,26,3,56
+2024/25,Leverkusen,27,3,59
+2024/25,Leverkusen,28,3,62
+2024/25,Leverkusen,29,1,63
+2024/25,Leverkusen,30,1,64
+2024/25,Leverkusen,31,3,67
+2024/25,Leverkusen,32,1,68
+2024/25,Leverkusen,33,0,68
+2024/25,Leverkusen,34,1,69
+2024/25,M'gladbach,1,0,0
+2024/25,M'gladbach,2,3,3
+2024/25,M'gladbach,3,0,3
+2024/25,M'gladbach,4,0,3
+2024/25,M'gladbach,5,3,6
+2024/25,M'gladbach,6,0,6
+2024/25,M'gladbach,7,3,9
+2024/25,M'gladbach,8,1,10
+2024/25,M'gladbach,9,3,13
+2024/25,M'gladbach,10,1,14
+2024/25,M'gladbach,11,3,17
+2024/25,M'gladbach,12,0,17
+2024/25,M'gladbach,13,1,18
+2024/25,M'gladbach,14,3,21
+2024/25,M'gladbach,15,3,24
+2024/25,M'gladbach,16,0,24
+2024/25,M'gladbach,17,0,24
+2024/25,M'gladbach,18,0,24
+2024/25,M'gladbach,19,3,27
+2024/25,M'gladbach,20,3,30
+2024/25,M'gladbach,21,1,31
+2024/25,M'gladbach,22,3,34
+2024/25,M'gladbach,23,0,34
+2024/25,M'gladbach,24,3,37
+2024/25,M'gladbach,25,0,37
+2024/25,M'gladbach,26,3,40
+2024/25,M'gladbach,27,3,43
+2024/25,M'gladbach,28,1,44
+2024/25,M'gladbach,29,0,44
+2024/25,M'gladbach,30,0,44
+2024/25,M'gladbach,31,0,44
+2024/25,M'gladbach,32,1,45
+2024/25,M'gladbach,33,0,45
+2024/25,M'gladbach,34,0,45
+2024/25,Mainz,1,1,1
+2024/25,Mainz,2,1,2
+2024/25,Mainz,3,0,2
+2024/25,Mainz,4,3,5
+2024/25,Mainz,5,0,5
+2024/25,Mainz,6,3,8
+2024/25,Mainz,7,0,8
+2024/25,Mainz,8,1,9
+2024/25,Mainz,9,1,10
+2024/25,Mainz,10,3,13
+2024/25,Mainz,11,3,16
+2024/25,Mainz,12,3,19
+2024/25,Mainz,13,0,19
+2024/25,Mainz,14,3,22
+2024/25,Mainz,15,3,25
+2024/25,Mainz,16,3,28
+2024/25,Mainz,17,0,28
+2024/25,Mainz,18,0,28
+2024/25,Mainz,19,3,31
+2024/25,Mainz,20,0,31
+2024/25,Mainz,21,1,32
+2024/25,Mainz,22,3,35
+2024/25,Mainz,23,3,38
+2024/25,Mainz,24,3,41
+2024/25,Mainz,25,3,44
+2024/25,Mainz,26,1,45
+2024/25,Mainz,27,0,45
+2024/25,Mainz,28,1,46
+2024/25,Mainz,29,0,46
+2024/25,Mainz,30,1,47
+2024/25,Mainz,31,0,47
+2024/25,Mainz,32,1,48
+2024/25,Mainz,33,3,51
+2024/25,Mainz,34,1,52
+2024/25,RB Leipzig,1,3,3
+2024/25,RB Leipzig,2,3,6
+2024/25,RB Leipzig,3,1,7
+2024/25,RB Leipzig,4,1,8
+2024/25,RB Leipzig,5,3,11
+2024/25,RB Leipzig,6,3,14
+2024/25,RB Leipzig,7,3,17
+2024/25,RB Leipzig,8,3,20
+2024/25,RB Leipzig,9,0,20
+2024/25,RB Leipzig,10,1,21
+2024/25,RB Leipzig,11,0,21
+2024/25,RB Leipzig,12,0,21
+2024/25,RB Leipzig,13,3,24
+2024/25,RB Leipzig,14,3,27
+2024/25,RB Leipzig,15,0,27
+2024/25,RB Leipzig,16,3,30
+2024/25,RB Leipzig,17,0,30
+2024/25,RB Leipzig,18,1,31
+2024/25,RB Leipzig,19,1,32
+2024/25,RB Leipzig,20,1,33
+2024/25,RB Leipzig,21,3,36
+2024/25,RB Leipzig,22,1,37
+2024/25,RB Leipzig,23,1,38
+2024/25,RB Leipzig,24,0,38
+2024/25,RB Leipzig,25,1,39
+2024/25,RB Leipzig,26,3,42
+2024/25,RB Leipzig,27,0,42
+2024/25,RB Leipzig,28,3,45
+2024/25,RB Leipzig,29,3,48
+2024/25,RB Leipzig,30,1,49
+2024/25,RB Leipzig,31,0,49
+2024/25,RB Leipzig,32,1,50
+2024/25,RB Leipzig,33,1,51
+2024/25,RB Leipzig,34,0,51
+2024/25,St Pauli,1,0,0
+2024/25,St Pauli,2,0,0
+2024/25,St Pauli,3,0,0
+2024/25,St Pauli,4,1,1
+2024/25,St Pauli,5,3,4
+2024/25,St Pauli,6,0,4
+2024/25,St Pauli,7,0,4
+2024/25,St Pauli,8,1,5
+2024/25,St Pauli,9,3,8
+2024/25,St Pauli,10,0,8
+2024/25,St Pauli,11,0,8
+2024/25,St Pauli,12,3,11
+2024/25,St Pauli,13,0,11
+2024/25,St Pauli,14,0,11
+2024/25,St Pauli,15,3,14
+2024/25,St Pauli,16,0,14
+2024/25,St Pauli,17,0,14
+2024/25,St Pauli,18,3,17
+2024/25,St Pauli,19,3,20
+2024/25,St Pauli,20,1,21
+2024/25,St Pauli,21,0,21
+2024/25,St Pauli,22,0,21
+2024/25,St Pauli,23,0,21
+2024/25,St Pauli,24,0,21
+2024/25,St Pauli,25,1,22
+2024/25,St Pauli,26,3,25
+2024/25,St Pauli,27,0,25
+2024/25,St Pauli,28,1,26
+2024/25,St Pauli,29,3,29
+2024/25,St Pauli,30,1,30
+2024/25,St Pauli,31,1,31
+2024/25,St Pauli,32,0,31
+2024/25,St Pauli,33,1,32
+2024/25,St Pauli,34,0,32
+2024/25,Stuttgart,1,0,0
+2024/25,Stuttgart,2,1,1
+2024/25,Stuttgart,3,3,4
+2024/25,Stuttgart,4,3,7
+2024/25,Stuttgart,5,1,8
+2024/25,Stuttgart,6,1,9
+2024/25,Stuttgart,7,0,9
+2024/25,Stuttgart,8,3,12
+2024/25,Stuttgart,9,1,13
+2024/25,Stuttgart,10,0,13
+2024/25,Stuttgart,11,3,16
+2024/25,Stuttgart,12,1,17
+2024/25,Stuttgart,13,3,20
+2024/25,Stuttgart,14,3,23
+2024/25,Stuttgart,15,0,23
+2024/25,Stuttgart,16,3,26
+2024/25,Stuttgart,17,3,29
+2024/25,Stuttgart,18,3,32
+2024/25,Stuttgart,19,0,32
+2024/25,Stuttgart,20,0,32
+2024/25,Stuttgart,21,3,35
+2024/25,Stuttgart,22,0,35
+2024/25,Stuttgart,23,1,36
+2024/25,Stuttgart,24,0,36
+2024/25,Stuttgart,25,1,37
+2024/25,Stuttgart,26,0,37
+2024/25,Stuttgart,27,0,37
+2024/25,Stuttgart,28,3,40
+2024/25,Stuttgart,29,0,40
+2024/25,Stuttgart,30,1,41
+2024/25,Stuttgart,31,0,41
+2024/25,Stuttgart,32,3,44
+2024/25,Stuttgart,33,3,47
+2024/25,Stuttgart,34,3,50
+2024/25,Union Berlin,1,1,1
+2024/25,Union Berlin,2,3,4
+2024/25,Union Berlin,3,1,5
+2024/25,Union Berlin,4,3,8
+2024/25,Union Berlin,5,0,8
+2024/25,Union Berlin,6,3,11
+2024/25,Union Berlin,7,3,14
+2024/25,Union Berlin,8,1,15
+2024/25,Union Berlin,9,0,15
+2024/25,Union Berlin,10,1,16
+2024/25,Union Berlin,11,0,16
+2024/25,Union Berlin,12,0,16
+2024/25,Union Berlin,13,0,16
+2024/25,Union Berlin,14,0,16
+2024/25,Union Berlin,15,0,16
+2024/25,Union Berlin,16,0,16
+2024/25,Union Berlin,17,0,16
+2024/25,Union Berlin,18,3,19
+2024/25,Union Berlin,19,0,19
+2024/25,Union Berlin,20,1,20
+2024/25,Union Berlin,21,3,23
+2024/25,Union Berlin,22,0,23
+2024/25,Union Berlin,23,0,23
+2024/25,Union Berlin,24,0,23
+2024/25,Union Berlin,25,3,26
+2024/25,Union Berlin,26,1,27
+2024/25,Union Berlin,27,3,30
+2024/25,Union Berlin,28,3,33
+2024/25,Union Berlin,29,1,34
+2024/25,Union Berlin,30,1,35
+2024/25,Union Berlin,31,1,36
+2024/25,Union Berlin,32,1,37
+2024/25,Union Berlin,33,0,37
+2024/25,Union Berlin,34,3,40
+2024/25,Werder Bremen,1,1,1
+2024/25,Werder Bremen,2,1,2
+2024/25,Werder Bremen,3,3,5
+2024/25,Werder Bremen,4,0,5
+2024/25,Werder Bremen,5,3,8
+2024/25,Werder Bremen,6,0,8
+2024/25,Werder Bremen,7,3,11
+2024/25,Werder Bremen,8,1,12
+2024/25,Werder Bremen,9,0,12
+2024/25,Werder Bremen,10,3,15
+2024/25,Werder Bremen,11,0,15
+2024/25,Werder Bremen,12,1,16
+2024/25,Werder Bremen,13,3,19
+2024/25,Werder Bremen,14,3,22
+2024/25,Werder Bremen,15,3,25
+2024/25,Werder Bremen,16,0,25
+2024/25,Werder Bremen,17,1,26
+2024/25,Werder Bremen,18,0,26
+2024/25,Werder Bremen,19,1,27
+2024/25,Werder Bremen,20,3,30
+2024/25,Werder Bremen,21,0,30
+2024/25,Werder Bremen,22,0,30
+2024/25,Werder Bremen,23,0,30
+2024/25,Werder Bremen,24,0,30
+2024/25,Werder Bremen,25,3,33
+2024/25,Werder Bremen,26,0,33
+2024/25,Werder Bremen,27,3,36
+2024/25,Werder Bremen,28,3,39
+2024/25,Werder Bremen,29,3,42
+2024/25,Werder Bremen,30,3,45
+2024/25,Werder Bremen,31,1,46
+2024/25,Werder Bremen,32,1,47
+2024/25,Werder Bremen,33,1,48
+2024/25,Werder Bremen,34,3,51
+2024/25,Wolfsburg,1,0,0
+2024/25,Wolfsburg,2,3,3
+2024/25,Wolfsburg,3,0,3
+2024/25,Wolfsburg,4,0,3
+2024/25,Wolfsburg,5,1,4
+2024/25,Wolfsburg,6,3,7
+2024/25,Wolfsburg,7,0,7
+2024/25,Wolfsburg,8,1,8
+2024/25,Wolfsburg,9,1,9
+2024/25,Wolfsburg,10,3,12
+2024/25,Wolfsburg,11,3,15
+2024/25,Wolfsburg,12,3,18
+2024/25,Wolfsburg,13,3,21
+2024/25,Wolfsburg,14,0,21
+2024/25,Wolfsburg,15,0,21
+2024/25,Wolfsburg,16,3,24
+2024/25,Wolfsburg,17,3,27
+2024/25,Wolfsburg,18,0,27
+2024/25,Wolfsburg,19,1,28
+2024/25,Wolfsburg,20,1,29
+2024/25,Wolfsburg,21,1,30
+2024/25,Wolfsburg,22,3,33
+2024/25,Wolfsburg,23,1,34
+2024/25,Wolfsburg,24,3,37
+2024/25,Wolfsburg,25,1,38
+2024/25,Wolfsburg,26,0,38
+2024/25,Wolfsburg,27,0,38
+2024/25,Wolfsburg,28,0,38
+2024/25,Wolfsburg,29,0,38
+2024/25,Wolfsburg,30,1,39
+2024/25,Wolfsburg,31,0,39
+2024/25,Wolfsburg,32,0,39
+2024/25,Wolfsburg,33,1,40
+2024/25,Wolfsburg,34,3,43
